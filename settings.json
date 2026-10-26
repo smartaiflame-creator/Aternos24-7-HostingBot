@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "narutopro",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "narutopro",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "Flamesmartsmp.aternos.me",
+    "port": 11921,
     "version": "",
     "try-creative": false
   },
